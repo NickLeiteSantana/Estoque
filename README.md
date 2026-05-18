@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📦 Sistema de Controle de Estoque
 
  Descrição
@@ -122,3 +123,7 @@ php artisan serve
 Autor
 
 Projeto desenvolvido por Lara De Moura Sorrilha
+=======
+# Estoque
+PROJETO EM GESTAO DE SISTEMAS COMPUTACIONAIS
+>>>>>>> cb26ae609f5673f64f5a9ec7d6c2a9814f82f21d
